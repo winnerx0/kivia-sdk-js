@@ -9,7 +9,6 @@ on:
   push:
     tags:
       - "v*"
-
 jobs:
   publish:
     runs-on: ubuntu-latest
