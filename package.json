@@ -2,6 +2,7 @@
   "name": "@kivia/sdk",
   "description": "TypeScript SDK for the Kivia API observability platform",
   "main": "dist/index.js",
+  "version": "0.1.6",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
